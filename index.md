@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 
 ---
-Google forms is a web application available in the Google Suite (G Suite) collection. It allows users to create surveys, quizzes, or anything else that needs a form-like structure. The purpose of this document is to help you easily create a Google Form.
+Google Forms is a web application available in the Google Suite (G Suite) collection. It allows users to create surveys, quizzes, or anything else that needs a form-like structure. The purpose of this document is to help you easily create a Google Form.
 
 This guide was written using the April 2021 version of Google Chrome Web Browser on MacOS. If you are using a different web browser or operating system, it may look slightly different.
 
