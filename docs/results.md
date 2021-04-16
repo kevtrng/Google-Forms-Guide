@@ -12,13 +12,13 @@ nav_order: 5
 
 Congrats, you've now got your form all set up! But how do we view the responses? This guide will show you how to read through your responses.
 
-## 1. Click on the `Responses` Tab
+**1. Click on the `Responses` Tab**
 
 Near the top of the page, you may have noticed two tabs: `Questions` and `Responses`. You may also notice a number beside `Responses`. This number indicates how many completed responses your form has received.
 
 ![Tabs](./images/results/1_tabs.png)
 
-## 2. Viewing Your Form Responses
+**2. Viewing Your Form Responses**
 
 There are three different choices on how you view your responses. Google Forms allows you to view a summary of all responses, responses by question, or responses by user. These three options will help you read through your data easily.
 
