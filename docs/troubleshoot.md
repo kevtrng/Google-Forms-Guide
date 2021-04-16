@@ -4,6 +4,13 @@ title: Troubleshooting
 nav_order: 10
 
 ---
+
+# Troubleshooting
+
+While creating a form, it is not uncommon to run into some issues. This section will guide you through some of the more common problems that are encountered.
+
+---
+
 ## Table of contents
 
 {: .no_toc .text-delta }
@@ -12,9 +19,6 @@ nav_order: 10
 {:toc}
 
 ---
-# Troubleshooting
-
-While creating a form, it is not uncommon to run into some issues. This section will guide you through some of the more common problems that are encountered.
 
 ## Unable to Exit Form Preview
 
