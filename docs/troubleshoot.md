@@ -56,7 +56,7 @@ When editing a form, you may have found that your questions look like this:
 
 Instead of
 
-![Maximised](../images/troubleshooting/maximised.png)
+![Maximised](../images/troubleshooting/maximise.png)
 
 To fix this, simply click on the arrow icons as shown:
 
