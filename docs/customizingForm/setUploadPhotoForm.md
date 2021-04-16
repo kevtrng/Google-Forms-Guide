@@ -13,7 +13,7 @@ In this section, we will walk you through how to change your Google Form header 
 
 ---
 
-**1. Click on ![palette](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/icons/paint-palette.png?raw=true){: height="4%" width="4%"} icon on the top right.**
+**1. Click on ![palette](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/icons/paint-palette.png?raw=true){: height="4%" width="4%"} the icon on the top right.**
 
 ![Google Form Header](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/customizingForm/1_changing_header.png?raw=true)
 
@@ -29,7 +29,7 @@ In this section, we will walk you through how to change your Google Form header 
 
 ![Google Form Header](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/customizingForm/7_changing_header.png?raw=true)
 
-**5. Select an image from computer**
+**5. Select an image from your computer**
 <br>
 Another window will open, find and double click on your photo so it uploads
 
@@ -49,5 +49,4 @@ Another window will open, find and double click on your photo so it uploads
 
 ## Conclusion
 
-Woohoo! You did it!
-That's all! Now you have uploaded your own photo and set it as your Google Form Header!
+You did it! Now you have uploaded your own photo and set it as your Google Form Header.
