@@ -2,7 +2,7 @@
 layout: default
 title: Other Questions Types
 nav_order: 9
-parent: Creating A Question 
+parent: Creating A Question
 
 ---
 
@@ -64,7 +64,7 @@ In a multiple choice grid, users can select only _one answer_ per row. Checkbox 
 
 ### 1. Enter your question.
 =======
-  
+
 **1. Enter your question.**
 >>>>>>> e1871d8263fd5f278ac296cf6e2ab73d668b0c1c
 
@@ -104,7 +104,7 @@ Additional options are available help refine questions.
 
 ### Click on the three dots on the bottom right of the question.
 =======
-  
+
 **Click on the three dots on the bottom right of the question.**
 >>>>>>> e1871d8263fd5f278ac296cf6e2ab73d668b0c1c
 
@@ -113,7 +113,7 @@ A menu will appear.
 ![Additional Options](../images/questions/2_advanced.png)
 
 ![Bell](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/icons/bell.png?raw=true){: height="8%" width="8%" style="float: left"}
-**Note** Additional options vary by question. This beginners guide will describe the options shown in the image above.
+**Note:** Additional options vary by question. This beginners guide will describe the options shown in the image above.
 
 ### Description
 
