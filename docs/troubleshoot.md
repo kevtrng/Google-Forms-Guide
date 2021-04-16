@@ -8,7 +8,7 @@ nav_order: 10
 
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---
@@ -47,3 +47,17 @@ If you are logged in and cannot edit a form that you were previously able to, yo
 ## Accidental Deletion
 
 Sometimes you may have delete something by accident. If that is the case hold down `cmd` button while pressing the `z` button on your keyboard. You may be able to undo the deletion.
+
+## Questions Have Been Minimised
+
+When editing a form, you may have found that your questions look like this:
+
+![Minimised](../images/troubleshooting/minimised.png)
+
+Instead of
+
+![Maximised](../images/troubleshooting/maximised.png)
+
+To fix this, simply click on the arrow icons as shown:
+
+![Minimised_arrow](../images/troubleshooting/minimised_circle.png)

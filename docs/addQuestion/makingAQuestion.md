@@ -65,7 +65,7 @@ Enter the option. It is required to have at least 1 option per question. For exa
 
 **2. (Optional) Click on `Add option` to add another option to the question.**
 
-A new option will appear. 
+A new option will appear.
 
 ![More options](https://github.com/kevtrng/Google-Forms-Guide/blob/gh-pages/docs/images/addingQuestions/3_additionalOptions.gif?raw=true)
 
@@ -101,7 +101,7 @@ This is an example of preview.
 
 ## Removing a Question
 
-If a question is no longer needed, simple remove the question.
+If a question is no longer needed, simply remove the question.
 
 **Click on the trash can symbol on the bottom of the question that should be deleted.**
 
